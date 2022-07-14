@@ -21,7 +21,11 @@
         /// <returns>Returns the new random number.</returns>
         public byte Roll()
         {
-            return FaceValue = (byte)new Random().Next(1, 7);
+            // Generate random number
+            Random rand = new Random();
+            byte newValue = (byte)rand.Next(1, 7);
+            FaceValue = newValue;
+            return FaceValue;
         }
 
         
