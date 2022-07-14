@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DieRoller", "DieRoller\DieRoller.csproj", "{EA8C1574-09A4-443E-BBA1-1770CDDC60F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA8C1574-09A4-443E-BBA1-1770CDDC60F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8C1574-09A4-443E-BBA1-1770CDDC60F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8C1574-09A4-443E-BBA1-1770CDDC60F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8C1574-09A4-443E-BBA1-1770CDDC60F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72AB58FA-33A3-4522-8759-ADA5335A9BF3}
+	EndGlobalSection
+EndGlobal
